@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#voice2text直下のデータ 
+voice2text/data/
+voice2text/output/
