@@ -1,5 +1,7 @@
 import json
 
+#参考サイト
+#https://segafreder.hatenablog.com/entry/2017/10/01/140125
 
 class JsonSerializable():
     OBJECT_TYPE = "#TYPE"
